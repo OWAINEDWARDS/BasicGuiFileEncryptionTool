@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.fileencryptiontool.EncryptionApplicationController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <Label fx:id="fileToEncryptPathText"/>
+    <Button text="Browse" onAction="#onOpenFileButtonCLick"/>
+    <Label fx:id="setPasswordText"  text="set Password" visible="false"/>
+    <TextField fx:id="setPasswordTextField" visible="false"/>
+    <Label fx:id="confirmPasswordText" text="confirm Password" visible="false"/>
+    <TextField fx:id="confirmPasswordTextField" visible="false"/>
+    <Button fx:id="encryptFileButton" disable="true" text="Encrypt File" onAction="#opEncryptButtonClick" />
+</VBox>

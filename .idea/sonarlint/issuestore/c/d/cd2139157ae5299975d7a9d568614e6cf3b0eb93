@@ -1,0 +1,23 @@
+
+x
+java:S1450"[Remove the "pathToSaveTo" field and declare it as a local variable in the relevant methods.(’¾¸Ó8ÊÌù„0
+j
+java:S1450"TRemove the "scene" field and declare it as a local variable in the relevant methods.(÷‘éÑ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¡›´Ø
+[
+java:S2147u"ECombine this catch with the one at line 115, which has the same body.(ù‡
+[
+java:S2147w"ECombine this catch with the one at line 115, which has the same body.(ÏñÙ°
+[
+java:S2147y"ECombine this catch with the one at line 115, which has the same body.(ï­£Ä
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8ØÛ¨ù„0
+W
+java:S1128"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ıÿÿÿÿ8ØÛ¨ù„0
+S
+java:S1128"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜8ØÛ¨ù„0
+W
+java:S1128
+":Remove this unused import 'javafx.stage.DirectoryChooser'.(ğ…ş8ØÛ¨ù„0
+c
+java:S2095_"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(äÖÓ

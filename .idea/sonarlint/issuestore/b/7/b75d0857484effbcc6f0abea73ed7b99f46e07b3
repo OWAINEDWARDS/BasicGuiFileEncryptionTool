@@ -1,0 +1,30 @@
+
+C	java:S108K")Either remove or fill this block of code.(Ä™üêşÿÿÿÿ
+>	java:S108~")Either remove or fill this block of code.(²šŞ„
+D	java:S108‡")Either remove or fill this block of code.(Äå¸¥øÿÿÿÿ
+D	java:S108›")Either remove or fill this block of code.(µ²ÖÜûÿÿÿÿ
+f
+java:S2674¾"JCheck the return value of the "read" call to see how many bytes were read.(ÌŠüøÿÿÿÿ
+a
+java:S2674Á"JCheck the return value of the "read" call to see how many bytes were read.(ûªş›
+a
+java:S2674È"JCheck the return value of the "read" call to see how many bytes were read.(º–ó¼
+>
+java:S3329Ì"'Use a dynamically-generated, random IV.(›³Ñ
+>	java:S108Î")Either remove or fill this block of code.( ù›g
+C
+java:S1659í",Declare "authentication" on a separate line.(üµ¥²
+8
+java:S1116“"Remove this empty statement.(Œå¨ûÿÿÿÿ
+\
+java:S2259†"EA "NullPointerException" could be thrown; "encrypt" is nullable here.(œÒ’¥
+\
+java:S2259L"AA "NullPointerException" could be thrown; "tmp" is nullable here.(×±¼”şÿÿÿÿ
+\
+java:S2259Ş"EA "NullPointerException" could be thrown; "decrypt" is nullable here.(ñÊò
+\
+java:S2259Ø"EA "NullPointerException" could be thrown; "decrypt" is nullable here.(ÖÁ–„
+]
+java:S2259}"BA "NullPointerException" could be thrown; "keys" is nullable here.(‰‚ĞÕüÿÿÿÿ
+Y
+java:S2259Â"BA "NullPointerException" could be thrown; "keys" is nullable here.(„ûØ¥
